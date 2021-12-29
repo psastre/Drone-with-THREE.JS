@@ -1,0 +1,91 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+body{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.hero{
+    padding: 10em 8em;
+    width: calc(50% - 9em);
+    transition: 0.5s ease;
+}
+
+.hero .title{
+    color: #ffba02;
+    font-size: 3em;
+    margin-bottom: .5em;
+}
+.hero .text {
+    font-size: 1;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    color: #b4b4b4;
+}
+
+.btn{
+    background-color: #ffba02 ;
+    color: #fff;
+    padding: .5em 1em;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-top: 2em;
+    cursor: pointer;
+    box-shadow: 5px 7px #000000;
+    transition: 0.5s ease;
+}
+
+.btn:hover{
+    box-shadow:  0px 0px #000000;
+}
+
+.plans{
+    opacity:0;
+    display: none;
+    padding: 14em 8em;
+    width: calc(100%-5em);
+    transition: 0.5s ease;
+    
+    justify-content: space-around;
+    align-items: center;
+
+}
+.container{
+    padding: 1em 2em;
+    margin: 1em 2em 0em 2em;
+    border: 2px  solid black;
+    border-radius: 25px;
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+    box-shadow: 5px 7px #000000;
+    transition: 0.5s ease;
+
+}
+.container:hover{
+    box-shadow:  0px 0px #000000;
+}
+.container h2{
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    color: #ffba02;
+}
+

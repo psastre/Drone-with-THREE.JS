@@ -1,0 +1,11 @@
+Model Information:
+* title:	Droideka Low Poly Version
+* source:	https://sketchfab.com/3d-models/droideka-low-poly-version-38a869298c0d44b0a504a07ab5e13dec
+* author:	Eddie Roach (https://sketchfab.com/eddie.roach)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Droideka Low Poly Version" (https://sketchfab.com/3d-models/droideka-low-poly-version-38a869298c0d44b0a504a07ab5e13dec) by Eddie Roach (https://sketchfab.com/eddie.roach) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
