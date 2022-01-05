@@ -1,3 +1,7 @@
+# Project detail
+Home Page for testing 3D model manipulation with THREE.js and GSAP animation.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
